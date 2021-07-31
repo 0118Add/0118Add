@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0118Add&show_icons=true&theme=radical)
 <div align="center">
 <img src=https://github-readme-stats.vercel.app/api?username=0118Add&show_icons=true&theme=radical" >
-<p>Perfectly balanced</p>
 </div>
