@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag 的 GitHub 统计](https://github-readme-stats.vercel.app/api ?username=0118Add )](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0118Add)](https://github.com/anuraghazra/github-readme-stats)
+
