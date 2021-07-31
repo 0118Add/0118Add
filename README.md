@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0118Add&show_icons=true&theme=radical)
+<div align="center">
+<img src=https://newfastuff.com/wp-content/uploads/2019/05/bW7QXVB.png" >
+<p>Perfectly balanced</p>
+</div>
