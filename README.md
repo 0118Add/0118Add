@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/0118Add"><img width="80%" src="./images/gh-readme-header" /></a></p>
+<p align="center"><a href="https://github.com/0118Add"><img width="80%" src="/images/gh-readme-header" /></a></p>
 
 ### Hi Hello 👋
 
