@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm JerryK</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
+<h1 align="center">Hi 👋, I'm Add</h1>
 
-###                                                   Hi Hello 👋
 
 <!--
 **0118Add/0118Add** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
