@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<img src=https://github-readme-stats.vercel.app/api?username=0118Add&theme=github_dark&locale=en&hide_border=true&show_icons=true&icon_color=006400" >
+<img src=https://github-readme-stats.vercel.app/api?username=0118Add&theme=github_dark&locale=en&hide_border=true&show_icons=true&icon_color=2f80ed" >
 </div>
 
 
