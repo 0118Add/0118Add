@@ -8,3 +8,4 @@
   <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0118Add&&theme=transparent&locale"/>
 </div>
   
+  ![Snake animation](https://github.com/aakkll/aakkll/blob/output/github-contribution-grid-snake.svg)
