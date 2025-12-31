@@ -5,7 +5,6 @@
 
 <div align="center">
   <a href="https://github.com/0118Add">
-  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=0118Add&theme=transparent&locale&hide_border=true"/>  
   <img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0118Add&&theme=transparent&locale"/>
 </div>
   
